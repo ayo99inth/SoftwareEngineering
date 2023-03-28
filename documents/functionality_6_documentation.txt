@@ -1,0 +1,3 @@
+This code first checks if the input number is a perfect square by taking it's square root and checking if it has a decimal value (indicating that it's not a perfect square). If it's not a perfect square, it returns false because it cannot be a square Fibonacci number. 
+
+If num is a perfect square, it then checks if it's a Fibonacci number by generating the Fibonacci sequence until it finds a number greater than or equal to num. If it finds a number in the sequence that is equal to num, then it returns true because num is both a perfect square and a Fibonacci number. Otherwise, it returns false. 
