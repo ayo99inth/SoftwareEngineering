@@ -1,0 +1,1 @@
+This function takes an Integer input n and returns the next larger number in the Fibonacci sequence that is closest to n. It works by iterating through the Fibonacci sequence until it finds a number that is greater than or equal to n, then returns that number.
