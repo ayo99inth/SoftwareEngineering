@@ -1,0 +1,1 @@
+This implementation checks whether a given number is in the Fibonacci sequence or not. It first handles the base cases of 0 and 1, which are always in the sequence. Then, it calculates the Fibonacci numbers until it reaches a number greater than or equal to the input number. Finally, it checks whether the calculated number is equal to the input number.
