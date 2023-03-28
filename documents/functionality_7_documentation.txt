@@ -1,0 +1,1 @@
+This code takes an integer and returns the nth number in the Fibonacci sequence. It uses recursion to calculate the Fibonacci number, and returns the value directly if n is 0 or 1. Otherwise, it claculates the n-1th and n-2th Fibonacci numbers using recursion and add them together to get the nth Fibonacci number.
