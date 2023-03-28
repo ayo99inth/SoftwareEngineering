@@ -1,0 +1,1 @@
+This code takes in a double number and uses the Math.floor() function to round down to the nearest integer. If the rounded is equal to the original number, then it is an integer and the function returns true. If not, then it is not an integer and the function returns false. 
